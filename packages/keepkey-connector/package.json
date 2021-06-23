@@ -1,0 +1,10 @@
+{
+  "name": "keepkey-connector",
+  "version": "1.0.0",
+  "author": "Highlander <bithighlander@gmail.com>",
+  "dependencies": {
+    "@0x/subproviders": "^5.0.4",
+    "@web3-react/abstract-connector": "^6.0.7",
+    "@web3-react/types": "^6.0.7"
+  }
+}
